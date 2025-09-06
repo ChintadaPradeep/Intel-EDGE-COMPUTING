@@ -1,3 +1,4 @@
+//Edge-Based Real-Time YOLOv8 Object Detection with Multi-View Image Processing//
 import cv2
 import numpy as np
 from datetime import datetime
